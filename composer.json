@@ -1,5 +1,5 @@
 {
-    "name": "cyrgit/closure",
+    "name": "cyrrill/closure",
     "description": "A library for PHP 5.3+ that can be used to serialize closures (anonymous functions).",
     "keywords": ["closure", "serialization", "function", "serializable", "serialize", "anonymous functions"],
     "license": "MIT",
